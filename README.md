@@ -1,2 +1,2 @@
 # HouseSpider
-First web page assignment to create and "About Me" page.
+First web page assignment to create an "About Me" page.
